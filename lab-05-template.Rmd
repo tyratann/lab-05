@@ -1,6 +1,6 @@
 ---
 title: "Lab 05 - Halloween Candies & Data Viz Improvement"
-author: "User1, User2, User3 and User4 - Team Name"
+author: "Tyra, Sofea"
 date: "`r Sys.Date()`"
 output: html_document
 ---
