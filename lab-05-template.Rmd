@@ -21,8 +21,8 @@ library(ggplot2)
 knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
 
-_Write your comments about image 1 below_
 
+Bar graph is hard to interpret as its not representative of the amount it carries.Different colors can be misleading.
 
 
 
@@ -32,8 +32,8 @@ _Write your comments about image 1 below_
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
-_Write your comments about image 2 below_
 
+Pie chart is hard to interpret as no numbers is present. Pie chart is disorderly and the color makes it confusing.
 
 
 
@@ -42,9 +42,7 @@ _Write your comments about image 2 below_
 ```{r echo=FALSE, out.width="100%"}
 knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
-
-_Write your comments about image 3 below_
-
+the overlapping of each point on the scatter graph makes it hard to read. The different sizes of the point also makes it confusing. 
 
 
 
@@ -54,8 +52,8 @@ _Write your comments about image 3 below_
 knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
-_Write your comments about image 4 below_
 
+The graph can be understood but theres excessive words that initially makes it confusing.
 
 
 # Data Visualization for Halloween 
